@@ -34,4 +34,18 @@ One of the nice things about `jekyll serve` is that it continues to watch the we
 
 Once you are happy with your changes you need to merge your branch back into the `master`.  Before you do this it always helps to check that your `master` branch is up to date.
 
+To go back to the master and to make your changes go live to the World Wide Web, you need to merge your changes in the `add_pages` branch back into master
+
+```
+git checkout master
+git pull
+git merge add_pages
+git status
+git add --all
+git commit -m "Edits to our groups' sections, the Group_Wonder pages.  Added pages for Banana and Mango integration."
+git push
+```
+
+And now you're on the web.
+
 <a name="footnote1">1</a>: For more on branching and merging you can check this [git tutorial](https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging).
