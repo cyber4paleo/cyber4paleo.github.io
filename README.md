@@ -1,8 +1,10 @@
 # cyber4paleo.github.io
 
+<img src="c4pcdw.jpg" width="100">
+
 ## Description
 
-<img src="c4pcdw.jpg" style="float: left; margin: 0px 15px 15px 0px;">This repository was set up in advance of the Cyber4Paleo Community Development Workshop.  The repository aims to act both as a location to store critical documentation and to operate as a model for project Best Practices (as best it can).  The website is developed using a bare-bones [Jekyll](http://jekyllrb.com) implementation and a simple Pages interface (as opposed to a blog implementation).  This set up is designed to help encourage collaboration by Workshop participants through GutHub, for posterity.
+This repository was set up in advance of the Cyber4Paleo Community Development Workshop.  The repository aims to act both as a location to store critical documentation and to operate as a model for project Best Practices (as best it can).  The website is developed using a bare-bones [Jekyll](http://jekyllrb.com) implementation and a simple Pages interface (as opposed to a blog implementation).  This set up is designed to help encourage collaboration by Workshop participants through GutHub, for posterity.
 
 ## Contribution
 
@@ -42,10 +44,10 @@ git pull
 git merge add_pages
 git status
 git add --all
-git commit -m "Edits to our groups' sections, the Group_Wonder pages.  Added pages for Banana and Mango integration."
+git commit -m "Edits to our groups' sections, the Group_Wonder pages."
 git push
 ```
 
-And now you're on the web.
+Maybe a more descriptive commit message, but regardless, you're on the web!
 
 <a name="footnote1">1</a>: For more on branching and merging you can check this [git tutorial](https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging).
