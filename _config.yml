@@ -19,5 +19,7 @@ github_username:  cyber4paleo
 markdown: kramdown
 
 collections:
+  projects:
+    output: true
   resources:
     output: true
