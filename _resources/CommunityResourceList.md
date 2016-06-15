@@ -53,8 +53,8 @@ Please see this <a href="http://bit.ly/1r4AqLN">EarthCube Tools presentation</a>
 
 ### IGSN
 
-* <b>Description:</b> IGSN stands for International Geo Sample Number. The IGSN is an alphanumeric code that uniquely identifies samples taken from our natural environment (for example: rock specimens, water samples, sediment cores) as well as related sampling features (sites, stations, stratigraphic sections, etc.).
-* <b>URL:</b> <a>http://www.geosamples.org/igsnabout</a>
+* <b>Description:</b> IGSN stands for International Geo Sample Number. The IGSN is an alphanumeric code that uniquely identifies samples taken from our natural environment (for example: rock specimens, water samples, sediment cores) as well as related sampling features (sites, stations, stratigraphic sections, etc.).  The IGSN Central Catalog (in development) aggregates metadata from all IGSN Allocating Agents worldwide (SESAR, GA, CSIRO, MARUM, GFZ, etc) and publishes the result as Linked Data.
+* <b>URL:</b> <a>http://www.igsn.org/</a>
 * <b>Related Links:</b> Technical documentation (http://igsn.github.io/)
 
 
@@ -117,6 +117,13 @@ Please see this <a href="http://bit.ly/1r4AqLN">EarthCube Tools presentation</a>
 * <b>Description:</b> The Paleobiology Database (PaleoBioDB) is a non-governmental, non-profit public resource for paleontological data. It has been organized and operated by a multi-disciplinary, multi-institutional, international group of paleobiological researchers. Its purpose is to provide global, collection-based occurrence and taxonomic data for organisms of all geological ages, as well data services to allow easy access to data for independent development of analytical tools, visualization software, and applications of all types. The Database&rsquo;s broader goal is to encourage and enable data-driven collaborative efforts that address large-scale paleobiological questions.
 * <b>URL:</b> <a>https://paleobiodb.org/</a>
 * <b>Related Links:</b> Watch this <a>webinar about PBDB</a>(first half only)
+
+
+### Rolling Deck to Repository (R2R) Program
+
+* <b>Description:</b> R2R publishes a master catalog of field expeditions (oceanographic cruises) for the US academic research fleet, including those that collect rock and sediment samples for paleo studies.  Each cruise has a DOI, which is linked to related resources in SESAR, EarthChem, etc.  The entire R2R catalog is published as Linked Data.
+* <b>URL:</b> <a>http://www.rvdata.us/</a>
+* <b>Related Links:</b> Linked Data graph +SPARQL endpoint (http://data.rvdata.us/)
 
 
 ### System for Earth Sample Registration (SESAR)
