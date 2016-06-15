@@ -119,9 +119,9 @@ Please see this <a href="http://bit.ly/1r4AqLN">EarthCube Tools presentation</a>
 * <b>Related Links:</b> Watch this <a>webinar about PBDB</a>(first half only)
 
 
-### Rolling Deck to Repository (R2R) Program
+### Rolling Deck to Repository
 
-* <b>Description:</b> R2R publishes a master catalog of field expeditions (oceanographic cruises) for the US academic research fleet, including those that collect rock and sediment samples for paleo studies.  Each cruise has a DOI, which is linked to related resources in SESAR, EarthChem, etc.  The entire R2R catalog is published as Linked Data.
+* <b>Description:</b> The R2R facility publishes a master catalog of field expeditions (oceanographic cruises) for the US academic research fleet, including those that collect rock and sediment samples for paleo studies.  Each cruise has a DOI, which is linked to related resources in SESAR, EarthChem, etc.  The entire R2R catalog is published as Linked Data.
 * <b>URL:</b> <a>http://www.rvdata.us/</a>
 * <b>Related Links:</b> Linked Data graph +SPARQL endpoint (http://data.rvdata.us/)
 
