@@ -122,13 +122,13 @@ Please see this <a href="http://bit.ly/1r4AqLN">EarthCube Tools presentation</a>
 ### Rolling Deck to Repository
 
 * <b>Description:</b> The R2R facility publishes a master catalog of field expeditions (oceanographic cruises) for the US academic research fleet, including those that collect rock and sediment samples for paleo studies.  Each cruise has a DOI, which is linked to related resources in SESAR, EarthChem, etc, as well as to ORCID iDs for investigators.  The entire R2R catalog is published as Linked Data.
-* <b>URL:</b> <a>http://www.rvdata.us/</a>
+* <b>URL:</b> <a>http://rvdata.us/</a>
 * <b>Related Links:</b> Linked Data graph +SPARQL endpoint (<a>http://data.rvdata.us/</a>)
 
 
 ### System for Earth Sample Registration (SESAR)
 
-* <b>Description:</b> SESAR, the System for Earth Sample Registration, is a web-based registry for samples and related sampling features. SESAR&rsquo;s objective is to promote sharing, linking, and integration of sample-based data through unambiguous identification of samples. SESAR distributes the International Geo Sample Number (IGSN; see above), catalogs and preserves sample metadata profiles, and provides access to the sample catalog via the Global Sample Search. SESAR is operated by the Interdisciplinary Earth Data Alliance (see above).
+* <b>Description:</b> SESAR, the System for Earth Sample Registration, is a web-based registry for samples and related sampling features. SESAR&rsquo;s objective is to promote sharing, linking, and integration of sample-based data through unambiguous identification of samples. SESAR is an Allocating Agent for the International Geo Sample Number (IGSN; see above), catalogs and preserves sample metadata profiles, and provides access to the sample catalog via the Global Sample Search. SESAR is operated by the Interdisciplinary Earth Data Alliance (see above).
 * <b>URL:</b> <a>http://www.geosamples.org/</a>
 * <b>Related Links:</b>
 
