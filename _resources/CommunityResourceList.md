@@ -128,7 +128,7 @@ Please see this <a href="http://bit.ly/1r4AqLN">EarthCube Tools presentation</a>
 
 ### System for Earth Sample Registration (SESAR)
 
-* <b>Description:</b> SESAR, the System for Earth Sample Registration, is a web-based registry for samples and related sampling features. SESAR&rsquo;s objective is to promote sharing, linking, and integration of sample-based data through unambiguous identification of samples. SESAR is an Allocating Agent for the International Geo Sample Number (IGSN; see above), catalogs and preserves sample metadata profiles, and provides access to the sample catalog via the Global Sample Search. SESAR is operated by the Interdisciplinary Earth Data Alliance (see above).
+* <b>Description:</b> SESAR, the System for Earth Sample Registration, is a web-based registry for samples and related sampling features. SESAR&rsquo;s objective is to promote sharing, linking, and integration of sample-based data through unambiguous identification of samples. SESAR is an Allocating Agent for the International Geo Sample Number (IGSN, see above); catalogs and preserves sample metadata profiles; and provides access to the sample catalog via a Global Sample Search. SESAR is operated by the Interdisciplinary Earth Data Alliance (IEDA, see above).
 * <b>URL:</b> <a>http://www.geosamples.org/</a>
 * <b>Related Links:</b>
 
