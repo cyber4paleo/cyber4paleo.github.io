@@ -60,7 +60,7 @@ Please see this <a href="http://bit.ly/1r4AqLN">EarthCube Tools presentation</a>
 
 ### IMLGS
 
-* <b>Description:</b> The Index to Marine and Lacustrine Geological Samples (IMLGS) helps scientists locate and obtain geologic material from sea floor and lakebed cores, grabs, and dredges archived by participating institutions around the world. Data include basic collection and storage informatio, as well as lithology, texture, age, principal investigator, province, weathering, metamorphism, glass remarks, and descriptive data for some samples, at the discretion of the curator, and links to view and download related data and images. The Curators' Consortium guides the database, maintained on behalf of the group by NOAA, since 1977. 
+* <b>Description:</b> The Index to Marine and Lacustrine Geological Samples (IMLGS) helps scientists locate and obtain geologic material from sea floor and lakebed cores, grabs, and dredges archived by participating institutions around the world. Data include basic collection and storage information, as well as lithology, texture, age, principal investigator, province, weathering, metamorphism, glass remarks, and descriptive data for some samples, at the discretion of the curator, and links to view and download related data and images. The Curators' Consortium guides the database, maintained on behalf of the group by NOAA since 1977. 
 * <b>URL:</b> <a>http://seabedsamples.org/</a>
 * <b>Related Links:</b>
 
