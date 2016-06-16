@@ -121,7 +121,7 @@ Please see this <a href="http://bit.ly/1r4AqLN">EarthCube Tools presentation</a>
 
 ### Rolling Deck to Repository
 
-* <b>Description:</b> The R2R facility maintains a master catalog of field expeditions (oceanographic cruises) for the US academic research fleet, including those that collect seafloor samples for paleo studies.  Each cruise has a DOI, which is linked to related resources in SESAR and EarthChem, as well as links to ORCID iDs for investigators.  The entire R2R catalog is published as Linked Data.
+* <b>Description:</b> The R2R facility maintains a master catalog of field expeditions (oceanographic cruises) for the US academic research fleet, including those that collect seafloor samples for paleo studies.  Each cruise has a DOI, which is linked to related resources in SESAR, IMLGS, and EarthChem, as well as links to ORCID iDs for investigators.  The entire R2R catalog is published as Linked Data.
 * <b>URL:</b> <a>http://rvdata.us/</a>
 * <b>Related Links:</b> Linked Data graph +SPARQL endpoint (<a>http://data.rvdata.us/</a>)
 
