@@ -55,7 +55,7 @@ Please see this <a href="http://bit.ly/1r4AqLN">EarthCube Tools presentation</a>
 
 * <b>Description:</b> IGSN stands for International Geo Sample Number. The IGSN is an alphanumeric code that uniquely identifies samples taken from our natural environment (for example: rock specimens, water samples, sediment cores) as well as related sampling features (sites, stations, stratigraphic sections, etc.).  The IGSN Central Catalog (in development) aggregates metadata from all IGSN Allocating Agents worldwide (SESAR, GA, CSIRO, MARUM, GFZ, etc) and publishes the result as Linked Data.
 * <b>URL:</b> <a>http://www.igsn.org/</a>
-* <b>Related Links:</b> Technical documentation (http://igsn.github.io/)
+* <b>Related Links:</b> Technical documentation (<a>http://igsn.github.io/</a>)
 
 
 ### LacCore
