@@ -6,6 +6,8 @@
 
 This repository was set up in advance of the Cyber4Paleo Community Development Workshop.  The repository aims to act both as a location to store critical documentation and to operate as a model for project Best Practices (as best it can).  The website is developed using a bare-bones [Jekyll](http://jekyllrb.com) implementation and a simple Pages interface (as opposed to a blog implementation).  This set up is designed to help encourage collaboration by Workshop participants through GutHub, for posterity.
 
+This site can be accessed directly from [http://cyber4paleo.github.io]()
+
 ## Contribution
 
 Simon Goring - \[cre, aut\] [GitHub](http://github.com/SimonGoring) [Twitter](http://twitter.com/sjgoring)
@@ -36,7 +38,7 @@ One of the nice things about `jekyll serve` is that it continues to watch the we
 
 Once you are happy with your changes you need to merge your branch back into the `master`.  Before you do this it always helps to check that your `master` branch is up to date.
 
-To go back to the master and to make your changes go live to the World Wide Web, you need to merge your changes in the `add_pages` branch back into master
+To go back to the `master` branch -- and to make your changes go live to the World Wide Web -- you need to merge your changes in the `add_pages` branch back into the `master` branch.
 
 ```
 git checkout master
