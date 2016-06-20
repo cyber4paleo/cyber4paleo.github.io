@@ -55,7 +55,14 @@ Please see this <a href="http://bit.ly/1r4AqLN">EarthCube Tools presentation</a>
 
 * <b>Description:</b> IGSN stands for International Geo Sample Number. The IGSN is an alphanumeric code that uniquely identifies samples taken from our natural environment (for example: rock specimens, water samples, sediment cores) as well as related sampling features (sites, stations, stratigraphic sections, etc.).  The IGSN Central Catalog (in development) aggregates metadata from all IGSN Allocating Agents worldwide (SESAR, GA, CSIRO, MARUM, GFZ, etc) and publishes the result as Linked Data.
 * <b>URL:</b> <a>http://www.igsn.org/</a>
-* <b>Related Links:</b> Technical documentation (http://igsn.github.io/)
+* <b>Related Links:</b> Technical documentation (<a>http://igsn.github.io/</a>)
+
+
+### Index to Marine and Lacustrine Geological Samples (IMLGS)
+
+* <b>Description:</b> The IMLGS helps scientists locate and obtain geologic material from sea floor and lakebed cores, grabs, and dredges archived by participating institutions around the world. Data include basic collection and storage information, as well as lithology, texture, age, principal investigator, province, weathering, metamorphism, glass remarks, and descriptive data for some samples, at the discretion of the curator, and links to view and download related data and images. The Curators' Consortium guides the database, maintained on behalf of the group by NOAA since 1977. 
+* <b>URL:</b> <a>http://seabedsamples.org/</a>
+* <b>Related Links:</b>
 
 
 ### LacCore
@@ -119,16 +126,16 @@ Please see this <a href="http://bit.ly/1r4AqLN">EarthCube Tools presentation</a>
 * <b>Related Links:</b> Watch this <a>webinar about PBDB</a>(first half only)
 
 
-### Rolling Deck to Repository (R2R) Program
+### Rolling Deck to Repository
 
-* <b>Description:</b> R2R publishes a master catalog of field expeditions (oceanographic cruises) for the US academic research fleet, including those that collect rock and sediment samples for paleo studies.  Each cruise has a DOI, which is linked to related resources in SESAR, EarthChem, etc.  The entire R2R catalog is published as Linked Data.
-* <b>URL:</b> <a>http://www.rvdata.us/</a>
-* <b>Related Links:</b> Linked Data graph +SPARQL endpoint (http://data.rvdata.us/)
+* <b>Description:</b> The R2R facility maintains a master catalog of field expeditions (oceanographic cruises) for the US academic research fleet, including those that collect seafloor samples for paleo studies.  Each cruise has a DOI, which is linked to related resources in SESAR, IMLGS, and EarthChem, as well as links to ORCID iDs for investigators.  The full R2R catalog is published as Linked Data.
+* <b>URL:</b> <a>http://rvdata.us/</a>
+* <b>Related Links:</b> Linked Data graph +SPARQL endpoint (<a>http://data.rvdata.us/</a>)
 
 
 ### System for Earth Sample Registration (SESAR)
 
-* <b>Description:</b> SESAR, the System for Earth Sample Registration, is a web-based registry for samples and related sampling features. SESAR&rsquo;s objective is to promote sharing, linking, and integration of sample-based data through unambiguous identification of samples. SESAR distributes the International Geo Sample Number (IGSN; see above), catalogs and preserves sample metadata profiles, and provides access to the sample catalog via the Global Sample Search. SESAR is operated by the Interdisciplinary Earth Data Alliance (see above).
+* <b>Description:</b> SESAR, the System for Earth Sample Registration, is a web-based registry for samples and related sampling features. SESAR&rsquo;s objective is to promote sharing, linking, and integration of sample-based data through unambiguous identification of samples. SESAR is an Allocating Agent for the International Geo Sample Number (IGSN, see above); catalogs and preserves sample metadata profiles; and provides access to the sample catalog via a Global Sample Search. SESAR is operated by the Interdisciplinary Earth Data Alliance (IEDA, see above).
 * <b>URL:</b> <a>http://www.geosamples.org/</a>
 * <b>Related Links:</b>
 
