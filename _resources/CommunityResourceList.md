@@ -86,6 +86,12 @@ Please see this <a href="http://bit.ly/1r4AqLN">EarthCube Tools presentation</a>
 * <b>Related Links:</b>
 
 
+### GeoDeepDive
+* <b>Description:</b> GeoDeepDive is an infrastructure designed to facilitate the location and extraction of data and information in the published scientific literature. NLP and OCR file output is available for the documents in the library, and this output serves as the starting point for building applications.
+* <b>URL:</b> <a>https://geodeepdive.org</a>
+* <b>Related Links:</b> <a>https://github.com/UW-Deepdive-Infrastructure/app-template</a>
+
+
 ### Neotoma Paleoecology Database
 
 * <b>Description:</b> Neotoma is a community data repository for fossil data, age models, and associated information, mostly from the Quaternary and Late Cenozoic.
