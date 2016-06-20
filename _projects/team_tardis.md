@@ -19,3 +19,8 @@ and use them to add properties to geologic time resources, like data files acros
 several group.   Simon Cox has noted that if we can get interest in these he
 would spend some time to update the latest ICS timescales and also 
 OWL time [http://def.seegrid.csiro.au/isotc211/iso19108/2002/temporal]
+
+# A Few Resources on timescales
+
+Timescales: [all timescales](https://macrostrat.org/api/defs/timescales?all)
+Timescale intervals: [example URL](https://macrostrat.org/api/defs/intervals?timescale=calcareous%20nannoplankton)
