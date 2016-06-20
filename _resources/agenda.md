@@ -24,7 +24,7 @@ concept: Agenda and timing for the meeting.
 
 * 8:30 Check-in (Jack & Mark)
 * 8:45 Group breakouts (Simon)
-* 10:30 Team activity (Simon)
+* 10:30 Team activity (Simon) 
 * 11:45 Check-in with whole group
 * 12:00 Lunch
 * 3:00 Present
