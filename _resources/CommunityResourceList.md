@@ -76,13 +76,13 @@ Please see this <a href="http://bit.ly/1r4AqLN">EarthCube Tools presentation</a>
 
 * <b>Description:</b> Data standard for a paleoclimate data container in JSON-LD format to enable quick querying and data extraction.
 * <b>URL:</b> <a>http://www.clim-past-discuss.net/cp-2015-109/</a>
-* <b>Related Links:</b> http://www.lipd.net/
+* <b>Related Links:</b> <a>http://www.lipd.net/</a>
 
 ### Linked Earth
 
 * <b>Description:</b> Web Platform enabling crowd-curation and standardization of paleoclimate data. Linked Data evangelism outpost. LiPD-centered and semantically-enabled. Trojan horse to propagate better uncertainty quantification (e.g. GeoChronR) and stunning visualizations.
 * <b>URL:</b> <a>http://linked.earth/</a>
-* <b>Related Links:</b> http://www.lipd.net/
+* <b>Related Links:</b> <a>http://www.lipd.net/</a>
 
 
 
