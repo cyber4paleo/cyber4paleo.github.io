@@ -93,6 +93,12 @@ Please see this <a href="http://bit.ly/1r4AqLN">EarthCube Tools presentation</a>
 * <b>Related Links:</b>
 
 
+### GeoDeepDive
+* <b>Description:</b> GeoDeepDive is an infrastructure designed to facilitate the location and extraction of data and information in the published scientific literature. NLP and OCR file output is available for the documents in the library, and this output serves as the starting point for building applications.
+* <b>URL:</b> <a>https://geodeepdive.org</a>
+* <b>Related Links:</b> <a>https://github.com/UW-Deepdive-Infrastructure/app-template</a>
+
+
 ### Neotoma Paleoecology Database
 
 * <b>Description:</b> Neotoma is a community data repository for fossil data, age models, and associated information, mostly from the Quaternary and Late Cenozoic.
@@ -130,7 +136,9 @@ Please see this <a href="http://bit.ly/1r4AqLN">EarthCube Tools presentation</a>
 
 * <b>Description:</b> The Paleobiology Database (PaleoBioDB) is a non-governmental, non-profit public resource for paleontological data. It has been organized and operated by a multi-disciplinary, multi-institutional, international group of paleobiological researchers. Its purpose is to provide global, collection-based occurrence and taxonomic data for organisms of all geological ages, as well data services to allow easy access to data for independent development of analytical tools, visualization software, and applications of all types. The Database&rsquo;s broader goal is to encourage and enable data-driven collaborative efforts that address large-scale paleobiological questions.
 * <b>URL:</b> <a>https://paleobiodb.org/</a>
-* <b>Related Links:</b> Watch this <a>webinar about PBDB</a>(first half only)
+* <b>Related Links:</b> 
+  + Watch this <a>webinar about PBDB</a>(first half only)
+  + Harmonized PBDB-Neotoma API <a>https://training.paleobiodb.org/comp1.0/</a>
 
 
 ### Rolling Deck to Repository
