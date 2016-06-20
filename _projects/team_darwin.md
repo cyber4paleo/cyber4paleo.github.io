@@ -10,11 +10,9 @@ concept: Fully integrating paleobiological resources into global inventories of 
   * John Wieczorek -- Darwin Core
   * Jack Williams -- University of Wisconsin
   
-# Project Goal
+  # Project Goal
 Crosswalking paleobiological resources (Neotoma, SESAR) onto DarwinCore standard
 
-# Resources
-Neotoma Manual
-http://neotoma-manual.readthedocs.io/en/latest/
-Darwin Core Quick Reference Guide
-<a>http://rs.tdwg.org/dwc/terms/index.htm</a>
+## Darwin Core
+* Introduction - <a>http://rs.tdwg.org/dwc/index.htm</a>
+* Quick Reference Guide (term reference) - <a>http://rs.tdwg.org/dwc/terms/index.htm</a>
