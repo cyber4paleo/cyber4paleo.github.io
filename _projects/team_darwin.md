@@ -17,5 +17,7 @@ Crosswalking paleobiological resources (Neotoma, SESAR) onto DarwinCore standard
 ## Darwin Core
 * Introduction - <a>http://rs.tdwg.org/dwc/index.htm</a>
 * Quick Reference Guide (term reference) - <a>http://rs.tdwg.org/dwc/terms/index.htm</a>
+* Biodiversity Data Standards (TDWG) - <a>http://www.tdwg.org/</a>
+
 ## Neotoma
  * Neotoma manual - <a>http://neotoma-manual.readthedocs.io/en/latest/</a>
