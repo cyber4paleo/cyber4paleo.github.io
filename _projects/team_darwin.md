@@ -22,3 +22,4 @@ Crosswalking paleobiological resources (Neotoma, SESAR) onto DarwinCore standard
 
 ## Neotoma
  * Neotoma manual - <a>http://neotoma-manual.readthedocs.io/en/latest/</a>
+ * Neotoma entity relationship diagram - <a>http://www.neotomadb.org/uploads/NeotomaDMD.pdf</a>
