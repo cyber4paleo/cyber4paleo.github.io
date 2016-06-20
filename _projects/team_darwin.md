@@ -12,3 +12,6 @@ concept: Fully integrating paleobiological resources into global inventories of 
   
   # Project Goal
 Crosswalking paleobiological resources (Neotoma, SESAR) onto DarwinCore standard
+
+Darwin Core Quick Reference Guide
+<a>http://rs.tdwg.org/dwc/terms/index.htm</a>
