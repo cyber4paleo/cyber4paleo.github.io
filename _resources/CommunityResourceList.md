@@ -17,7 +17,7 @@ Please see this <a href="http://bit.ly/1r4AqLN">EarthCube Tools presentation</a>
 
 * <b>Description:</b> The CSDCO provides infrastructure for scientists utilizing core samples from Earth&rsquo;s continents in their research, through integrated support for coring and drilling projects, from project inception through curation.
 * <b>URL:</b> <a>http://csdco.org</a>
-* <b>Related Links:</b> 
+* <b>Related Links:</b>
 
 
 ### DarwinCore
@@ -31,8 +31,8 @@ Please see this <a href="http://bit.ly/1r4AqLN">EarthCube Tools presentation</a>
 
 * <b>Description:</b> Exposes EarthCube resources on mobile devices for offline use in outreach and soon research purposes. Flyover Country&trade; is a National Science Foundation funded offline mobile app for geoscience outreach and data discovery. The app exposes interactive geologic maps from Macrostrat.org, fossil localities from Neotomadb.org and Paleobiodb.org, core sample localities from LacCore.org, Wikipedia articles, offline base maps, and the user&rsquo;s current GPS determined location, altitude, speed, and heading. The app analyzes a given flight path and caches relevant map data and points of interest (POI), and displays these data during the flight, without in flight wifi. By downloading only the data relevant to a particular flightpath, cache sizes remain reasonable, allowing for a robust experience without an internet connection.
 * <b>URL:</b> <a>http://fc.umn.edu</a>
-* <b>Related Links:</b><a>https://www.youtube.com/watch?v=8BavywmbuHM</a>, 
-<a>https://play.google.com/store/apps/details?id=com.ionicframework.app303739</a>, 
+* <b>Related Links:</b><a>https://www.youtube.com/watch?v=8BavywmbuHM</a>,
+<a>https://play.google.com/store/apps/details?id=com.ionicframework.app303739</a>,
 <a>https://itunes.apple.com/us/app/flyover-country/id1059886913?ls=1&amp;mt=8</a>
 
 
@@ -60,7 +60,7 @@ Please see this <a href="http://bit.ly/1r4AqLN">EarthCube Tools presentation</a>
 
 ### Index to Marine and Lacustrine Geological Samples (IMLGS)
 
-* <b>Description:</b> The IMLGS helps scientists locate and obtain geologic material from sea floor and lakebed cores, grabs, and dredges archived by participating institutions around the world. Data include basic collection and storage information, as well as lithology, texture, age, principal investigator, province, weathering, metamorphism, glass remarks, and descriptive data for some samples, at the discretion of the curator, and links to view and download related data and images. The Curators' Consortium guides the database, maintained on behalf of the group by NOAA since 1977. 
+* <b>Description:</b> The IMLGS helps scientists locate and obtain geologic material from sea floor and lakebed cores, grabs, and dredges archived by participating institutions around the world. Data include basic collection and storage information, as well as lithology, texture, age, principal investigator, province, weathering, metamorphism, glass remarks, and descriptive data for some samples, at the discretion of the curator, and links to view and download related data and images. The Curators' Consortium guides the database, maintained on behalf of the group by NOAA since 1977.
 * <b>URL:</b> <a>http://seabedsamples.org/</a>
 * <b>Related Links:</b>
 
@@ -76,7 +76,14 @@ Please see this <a href="http://bit.ly/1r4AqLN">EarthCube Tools presentation</a>
 
 * <b>Description:</b> Data standard for a paleoclimate data container in JSON-LD format to enable quick querying and data extraction.
 * <b>URL:</b> <a>http://www.clim-past-discuss.net/cp-2015-109/</a>
-* <b>Related Links:</b> http://www.lipd.net/
+* <b>Related Links:</b> <a>http://www.lipd.net/</a>
+
+### Linked Earth
+
+* <b>Description:</b> Web Platform enabling crowd-curation and standardization of paleoclimate data. Linked Data evangelism outpost. LiPD-centered and semantically-enabled. Trojan horse to propagate better uncertainty quantification (e.g. GeoChronR) and stunning visualizations.
+* <b>URL:</b> <a>http://linked.earth/</a>
+* <b>Related Links:</b> <a>http://www.lipd.net/</a>
+
 
 
 ### Macrostrat
@@ -86,11 +93,17 @@ Please see this <a href="http://bit.ly/1r4AqLN">EarthCube Tools presentation</a>
 * <b>Related Links:</b>
 
 
+### GeoDeepDive
+* <b>Description:</b> GeoDeepDive is an infrastructure designed to facilitate the location and extraction of data and information in the published scientific literature. NLP and OCR file output is available for the documents in the library, and this output serves as the starting point for building applications.
+* <b>URL:</b> <a>https://geodeepdive.org</a>
+* <b>Related Links:</b> <a>https://github.com/UW-Deepdive-Infrastructure/app-template</a>
+
+
 ### Neotoma Paleoecology Database
 
 * <b>Description:</b> Neotoma is a community data repository for fossil data, age models, and associated information, mostly from the Quaternary and Late Cenozoic.
 * <b>URL:</b> <a>http://neotomadb.org</a>
-* <b>Related Links:</b> 
+* <b>Related Links:</b>
 
 
 
@@ -109,7 +122,7 @@ Please see this <a href="http://bit.ly/1r4AqLN">EarthCube Tools presentation</a>
 
 ### Open Core Data
 
-* <b>Description:</b> Open Core Data is a source for both continental and ocean scientific drilling data from the JRSO (<a>http://iodp.org/</a>) and CSDCO (<a>http://www.csdco.umn.edu/</a>) facilities. It is recently funded and starting its process. Among the goals will be improving use of OCD hosted data by other community repositories and machine access to the holdings. 
+* <b>Description:</b> Open Core Data is a source for both continental and ocean scientific drilling data from the JRSO (<a>http://iodp.org/</a>) and CSDCO (<a>http://www.csdco.umn.edu/</a>) facilities. It is recently funded and starting its process. Among the goals will be improving use of OCD hosted data by other community repositories and machine access to the holdings.
 * <b>URL:</b> <a>http://opencoredata.org</a>
 * <b>Related Links:</b>
 
@@ -123,7 +136,9 @@ Please see this <a href="http://bit.ly/1r4AqLN">EarthCube Tools presentation</a>
 
 * <b>Description:</b> The Paleobiology Database (PaleoBioDB) is a non-governmental, non-profit public resource for paleontological data. It has been organized and operated by a multi-disciplinary, multi-institutional, international group of paleobiological researchers. Its purpose is to provide global, collection-based occurrence and taxonomic data for organisms of all geological ages, as well data services to allow easy access to data for independent development of analytical tools, visualization software, and applications of all types. The Database&rsquo;s broader goal is to encourage and enable data-driven collaborative efforts that address large-scale paleobiological questions.
 * <b>URL:</b> <a>https://paleobiodb.org/</a>
-* <b>Related Links:</b> Watch this <a>webinar about PBDB</a>(first half only)
+* <b>Related Links:</b> 
+  + Watch this <a>webinar about PBDB</a>(first half only)
+  + Harmonized PBDB-Neotoma API <a>https://training.paleobiodb.org/comp1.0/</a>
 
 
 ### Rolling Deck to Repository
