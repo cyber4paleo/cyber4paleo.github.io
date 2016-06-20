@@ -1,3 +1,4 @@
+---
 title: Team Darwin
 layout: page
 concept: Fully integrating paleobiological resources into global inventories of earth's biodiversity, past and present. Also, being awesome.
