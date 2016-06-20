@@ -1,6 +1,7 @@
-title: BayeStat
+---
 layout: page
-concept: "Making the world a better place" (Erlicht Bachman) .
+title: BayeStat
+concept: Making the world a better place - Erlicht Bachman.
 ---
 
 # Team Members
