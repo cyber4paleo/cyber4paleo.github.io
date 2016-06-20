@@ -11,7 +11,8 @@ concept: Fully integrating paleobiological resources into global inventories of 
   * John Wieczorek -- Darwin Core
   * Jack Williams -- University of Wisconsin
   
-  # Project Goal
+# Project Goal
+
 Crosswalking paleobiological resources (Neotoma, SESAR) onto DarwinCore standard
 
 ## Darwin Core
