@@ -1,3 +1,4 @@
+---
 layout: page
 title: Community Development Workshop Agenda
 concept: Agenda and timing for the meeting.
