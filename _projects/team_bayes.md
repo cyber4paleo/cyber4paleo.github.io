@@ -1,7 +1,7 @@
 ---
+title: Team Bayes
 layout: page
-title: BayeStat
-concept: Making the world a better place - Erlicht Bachman.
+concept: Bringing about the earthly reign of Rev. Bayes on the paleo-bio-geo-sciences
 ---
 
 # Team Members
@@ -10,5 +10,4 @@ concept: Making the world a better place - Erlicht Bachman.
   * YOUR NAME HERE
 
 # Project Goal
-
-Bringing about the earthly reign of zombie Reverend Thomas Bayes on the paleo-bio-geo-sciences
+Identifying, and possibly removing, roadblocks to a more quantitative description of paleoscientific variations, and the associated uncertainties. What datasets does it apply to? What stands in the way of a meaningful Bayesian analysis of these datasets.
