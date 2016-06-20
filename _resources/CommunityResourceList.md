@@ -24,7 +24,7 @@ Please see this <a href="http://bit.ly/1r4AqLN">EarthCube Tools presentation</a>
 
 * <b>Description:</b> The Darwin Core is body of standards that facilitate the sharing of information about biological diversity by providing reference definitions, examples, and commentaries. The Darwin Core is primarily based on taxa, their occurrence in nature as documented by observations, specimens, samples, and related information.
 * <b>URL:</b> <a>http://rs.tdwg.org/dwc/</a>
-* <b>Related Links:</b>
+* <b>Related Links:</b> Taxonomic Databases Working Group (Biodiversity Data Standards organization). <a>http://www.tdwg.org/</a>
 
 
 ### Flyover Country
