@@ -1,3 +1,4 @@
+---
 title: Team Bayes
 layout: page
 concept: Bringing about the earthly reign of Rev. Bayes on the paleo-bio-geo-sciences
@@ -9,4 +10,4 @@ concept: Bringing about the earthly reign of Rev. Bayes on the paleo-bio-geo-sci
   * YOUR NAME HERE
 
 # Project Goal
-Identifying, and possibly removing, roadblocks to a more quantitative description of paleoscientific variations, and the associated uncertainties. What datasets does it apply to? What stands in the way of a meaningful Bayesian analysis of these datasets. 
+Identifying, and possibly removing, roadblocks to a more quantitative description of paleoscientific variations, and the associated uncertainties. What datasets does it apply to? What stands in the way of a meaningful Bayesian analysis of these datasets.
