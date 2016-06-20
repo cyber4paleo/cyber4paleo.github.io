@@ -6,7 +6,7 @@
 
 This repository was set up in advance of the Cyber4Paleo Community Development Workshop.  The repository aims to act both as a location to store critical documentation and to operate as a model for project Best Practices (as best it can).  The website is developed using a bare-bones [Jekyll](http://jekyllrb.com) implementation and a simple Pages interface (as opposed to a blog implementation).  This set up is designed to help encourage collaboration by Workshop participants through GutHub, for posterity.
 
-This site can be accessed directly from [http://cyber4paleo.github.io]()
+This site can be accessed directly from [cyber4paleo.github.io]()
 
 ## Contribution
 
