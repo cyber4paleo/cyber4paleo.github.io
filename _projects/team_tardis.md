@@ -10,6 +10,10 @@ concept: Time Adorned Resource Descriptions in Science (TARDIS)
 # Team Members
 
   * Douglas Fils  -- Consortium for Ocean Leadership
+  * Bob Arko -- SESAR
+  * Alexandra Noronha -- University of Texas  
+  * Anders Noren -- CSDCO 
+  * Shannon Peters -- Macrostract
 
 
 # Project Goal
@@ -19,3 +23,7 @@ and use them to add properties to geologic time resources, like data files acros
 several group.   Simon Cox has noted that if we can get interest in these he
 would spend some time to update the latest ICS timescales and also 
 OWL time [http://def.seegrid.csiro.au/isotc211/iso19108/2002/temporal]
+
+# Questions
+
+  * How to "age" the CSDCO data,  Neotoma age models, Geo Deep Dive possible
