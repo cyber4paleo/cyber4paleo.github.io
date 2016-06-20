@@ -26,4 +26,14 @@ OWL time [http://def.seegrid.csiro.au/isotc211/iso19108/2002/temporal]
 
 # Questions
 
-  * How to "age" the CSDCO data,  Neotoma age models, Geo Deep Dive possible
+  * How to "age" the CSDCO data:  Neotoma age models, Geo Deep Dive possible
+  * Connect CSIRO/ICS and Macrostrat concepts ID's via GeoLink Graph
+
+
+# Links
+
+  * SESAR GeoLink RDF for time
+  * Macrotrat relations
+  * CSIRO   [https://www.seegrid.csiro.au/wiki/CGIModel/GeologicTime] 
+
+# Steps  
