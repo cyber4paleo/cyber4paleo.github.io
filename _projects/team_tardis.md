@@ -9,8 +9,8 @@ concept: Time Adorned Resource Descriptions in Science (TARDIS)
 
 # Team Members
 
-  * Douglas Fils  -- Consortium for Ocean Leadership
-  * Bob Arko -- SESAR
+  * Douglas Fils  -- Consortium for Ocean Leadership / Open Core Data
+  * Bob Arko -- IEDA / SESAR
   * Alexandra Noronha -- University of Texas  
   * Anders Noren -- CSDCO 
   * Shannon Peters -- Macrostract
@@ -33,7 +33,18 @@ OWL time http://def.seegrid.csiro.au/isotc211/iso19108/2002/temporal
 # Links
 
   * SESAR GeoLink RDF for time
-  * Macrotrat relations
+  * Macrotrat;  API : https://macrostrat.org/api 
   * CSIRO   https://www.seegrid.csiro.au/wiki/CGIModel/GeologicTime
 
 # Steps  
+  * SESAR
+    * 30K samples with ages..  mix of assignment and analytic  (don't know when one or other)
+    * put in prov even if it is "unknown"
+    * put in URI's from SESAR graph (sample URI is associated with age URI)  (using GeoLink hasGeologicAge)
+    * above is available at http://data.geolink.org/sparql in SESAR graph
+  * Open Core
+    * use age models to find age range of core and assign with CSIRO ICS 2014  (using GeoLink hasGeologicAge)
+    * publish to GeoLink graph class dataset / digitalobject
+  * General
+    * create cross link to Macrostrat resources and place in GeoLink
+    * Demo the utility how?
