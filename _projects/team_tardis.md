@@ -13,16 +13,14 @@ concept: Time Adorned Resource Descriptions in Science (TARDIS)
   * Bob Arko -- IEDA / SESAR
   * Alexandra Noronha -- University of Texas  
   * Anders Noren -- CSDCO 
-  * Shannon Peters -- Macrostract
+  * Shannon Peters -- Macrostrat
 
 
 # Project Goal
 
 To take the resources from https://www.seegrid.csiro.au/wiki/CGIModel/GeologicTime
-and use them to add properties to geologic time resources, like data files across
-several group.   Simon Cox has noted that if we can get interest in these he
-would spend some time to update the latest ICS timescales and also 
-OWL time http://def.seegrid.csiro.au/isotc211/iso19108/2002/temporal
+and use them to add properties to resources.  Examples are Open Core data files, 
+SESAR samples and more.  
 
 # Questions
 
@@ -48,3 +46,19 @@ OWL time http://def.seegrid.csiro.au/isotc211/iso19108/2002/temporal
   * General
     * create cross link to Macrostrat resources and place in GeoLink
     * Demo the utility how?
+
+ # RDF notes
+
+ A resource with time looks like
+
+ ```
+ <http://host.geolink.org/sesar/id/dataset/ffaf89d9-8e7f-4770-b049-224d87eb2850>
+     a <http://schema.geolink.org/1.0/base/main#Dataset> ;
+     rdfs:label "RC1307, Coring>PistonCorer"
+     geolink:hasCruise <http://lod.bco-dmo.org/geolink/id/deployment/57413>
+     geolink:hasTitle
+     geolink:hasAbstract
+
+ ```
+
+
