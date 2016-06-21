@@ -49,16 +49,5 @@ SESAR samples and more.
 
  # RDF notes
 
- A resource with time looks like
-
- ```
- <http://host.geolink.org/sesar/id/dataset/ffaf89d9-8e7f-4770-b049-224d87eb2850>
-     a <http://schema.geolink.org/1.0/base/main#Dataset> ;
-     rdfs:label "RC1307, Coring>PistonCorer"
-     geolink:hasCruise <http://lod.bco-dmo.org/geolink/id/deployment/57413>
-     geolink:hasTitle
-     geolink:hasAbstract
-
- ```
 
 
