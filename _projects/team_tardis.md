@@ -31,7 +31,7 @@ SESAR samples and more.
 # Links
 
   * SESAR GeoLink RDF for time
-  * Macrotrat;  API : https://macrostrat.org/api 
+  * Macrotrat;  API timescales: https://macrostrat.org/api/defs/timescales API intervals: https://macrostrat.org/api/defs/intervals 
   * CSIRO   https://www.seegrid.csiro.au/wiki/CGIModel/GeologicTime
 
 # Steps  
