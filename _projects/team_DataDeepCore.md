@@ -1,5 +1,5 @@
 ---
-title: Team AppAllTheThings
+title: Team DataDeepCore
 layout: page
 concept: Adding content to core samples using GeoDeepDive
 ---
@@ -13,4 +13,4 @@ concept: Adding content to core samples using GeoDeepDive
 
 # Project Goal
 
-Visualizing and combining data from C4P resources on mobile devices in hopefully cool and useful ways for outreach and science.  
+To make a robust Android and iOS application that uses GeoDeepDive to collect information in regards to sediment core locations.
