@@ -34,8 +34,7 @@ concept: Fully integrating paleobiological resources into global inventories of 
 ## Mobilization Workflow
 This workflow shows the steps used to make data accessible in large-scale aggregators such as VertNet, iDigBio, and GBIF using the VertNet model for data mobilization.
 
- * Workflow Diagram <a></a>
- * Workflow steps
+### Workflow steps
    * An original data source (e.g., Paleobiology Database, Neotoma) exports relevant data to a Dropbox folder shared with VertNet.
    * VertNet adapts a custom "migrator" to the original data
    * The migrator uses data cleaning and lookup routines to the most complete and correct Darwin Core output feasible from the source data.
@@ -46,3 +45,6 @@ This workflow shows the steps used to make data accessible in large-scale aggreg
    * Aggregators such as VertNet, iDigBio, and GBIF monitor IPT RSS feeds for publication events, and harvest data for inclusion or updates in their respective services.
    * For VertNet, a series of steps prepare the data for inclusion in the VertNet data store as well as in periodic Taxon-based snapshots (roughly divided among Chordate classes) for archiva purposes in repositories such as CyVerse and DataONE. AmphibiaWeb harvests one of these snapshots for periodic updates to their occurrence data.
    * VertNet also gathers user-provided data quality feedback and usage statistics, which it propogates as issues to anyone monitoring the data sets via their GitHub feedback repositories - one repository per IPT resource.
+
+### Workflow Diagram 
+<img src="https://raw.githubusercontent.com/cyber4paleo/cyber4paleo.github.io/master/images/Neotoma_PBDB_VN_GBIF_Workflow.jpg" alt="Mobilization Workflow">
